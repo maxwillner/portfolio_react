@@ -1,4 +1,5 @@
 import React from "react";
+import Nav from "../Nav";
 
 
 function Header() {
@@ -8,6 +9,7 @@ function Header() {
             <h2>
                 <a href="/">Max Willner</a>
             </h2>
+            <Nav></Nav>
         </header>
     )
 }
