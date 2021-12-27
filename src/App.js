@@ -5,16 +5,18 @@ import About from "./components/About";
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
 import ContactForm from './components/Contact';
+import Project from './components/Project';
+
 
 function App() {
   return (
     <div>
       <Header></Header>
       <main>
-        <About></About>
-        <Portfolio></Portfolio>
+        <Project></Project>
+        {/* <Portfolio></Portfolio>
         <Resume></Resume>
-        <ContactForm></ContactForm>
+        <ContactForm></ContactForm> */}
       </main>
       <Footer></Footer>
     </div>
