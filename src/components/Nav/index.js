@@ -5,9 +5,9 @@ function Nav() {
     const sections = [
         {name: "about me"},
         {name: "portfolio"},
-        {name: "contact"},
         {name: "resume"},
-    ];
+        {name: "contact"}
+      ];
     
     function sectionSelected(name) {
         console.log(`${name} clicked`)
