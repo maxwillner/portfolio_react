@@ -3,6 +3,7 @@ import React from "react";
 function Nav() {
 
     const sections = [
+        {name: "about me"},
         {name: "portfolio"},
         {name: "contact"},
         {name: "resume"},
@@ -16,14 +17,8 @@ function Nav() {
         <header>
             <nav> 
                 <ul className="flex-row">
-                    <li className="mx-2">
-                        <a href="#about">About me</a>
-                    </li>
-                     <li>
-                        <span>Contact</span>
-                    </li>
                     {sections.map((section) => (
-                    <li className="mx-1"
+                    <li className="mx-2"
                     key={section.name}>
                         <span onClick={() => sectionSelected(section.name)} > 
                         {section.name}
