@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.073c9b0a.css",
+    "main.js": "/portfolio_react/static/js/main.1c265b9b.js",
+    "static/js/787.6d587599.chunk.js": "/portfolio_react/static/js/787.6d587599.chunk.js",
+    "static/media/movieland.png": "/portfolio_react/static/media/movieland.3203f8e8cbd99e8879db.png",
+    "static/media/pizza_hunt.png": "/portfolio_react/static/media/pizza_hunt.391342a7522ef58ce90a.png",
+    "static/media/zookeepr.png": "/portfolio_react/static/media/zookeepr.3a5f7cb17197817d7128.png",
+    "static/media/alphadev.png": "/portfolio_react/static/media/alphadev.f59c71cc90be7b556fe1.png",
+    "static/media/daily_wellness_tracker.png": "/portfolio_react/static/media/daily_wellness_tracker.ce6968af0ee2c3d6bffd.png",
+    "static/media/weather_dashboard.png": "/portfolio_react/static/media/weather_dashboard.53079f9465054f56447c.png",
+    "static/media/note_taker.png": "/portfolio_react/static/media/note_taker.fb7196fc77cc5a66ff4b.png",
+    "static/media/Headshot.jpg": "/portfolio_react/static/media/Headshot.9f5cc9d924cf7ffa16e1.jpg",
+    "index.html": "/portfolio_react/index.html",
+    "main.073c9b0a.css.map": "/portfolio_react/static/css/main.073c9b0a.css.map",
+    "main.1c265b9b.js.map": "/portfolio_react/static/js/main.1c265b9b.js.map",
+    "787.6d587599.chunk.js.map": "/portfolio_react/static/js/787.6d587599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1c265b9b.js"
+  ]
+}
